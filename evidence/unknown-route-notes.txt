@@ -1,0 +1,17 @@
+# Unknown Route Test
+
+Target:
+http://127.0.0.1:3000/swynex-assessment-test
+
+Observed HTTP status:
+200
+
+Comparison:
+The response body matched the homepage response body.
+
+Interpretation:
+This behavior is consistent with a single-page application
+serving its frontend HTML for an unknown route.
+
+Security conclusion:
+No error-handling vulnerability was established by this test.
