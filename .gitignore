@@ -2,3 +2,8 @@
 *.pem
 *.key
 secrets/
+
+# Editor backup files
+*.save
+*.swp
+*~
