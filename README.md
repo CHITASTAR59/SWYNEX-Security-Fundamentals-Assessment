@@ -44,7 +44,3 @@ will be identified separately.
 All testing is limited to the local training environment.
 No external systems are included in the assessment.
 
-## Disclaimer
-
-This project is for educational purposes and demonstrates
-security assessment methodology and remediation practices.
